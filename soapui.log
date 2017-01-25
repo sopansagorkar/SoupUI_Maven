@@ -1,0 +1,4 @@
+2016-07-12 12:53:01,365 WARN  [SoapUI] Missing folder [D:\Mars Workspace\SoapUI_Maven\.\ext] for external libraries
+2016-07-12 12:53:01,496 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\sopansa\soapui-settings.xml]
+2016-07-12 12:53:01,968 INFO  [WsdlProject] Loaded project from [file:/D:/Mars%20Workspace/SoapUI_Maven/src/main/resources/WeatherService-soapui-project.xml]
+2016-07-12 12:53:01,977 WARN  [WsdlProject] Project 'WeatherService' is from a newer version (5.2.1) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.

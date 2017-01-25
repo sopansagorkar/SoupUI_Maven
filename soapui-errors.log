@@ -1,0 +1,9 @@
+2016-07-12 12:04:02,857 ERROR [errorlog] java.net.MalformedURLException: no protocol: /src/main/resources/WeatherService-soapui-project.xml
+java.net.MalformedURLException: no protocol: /src/main/resources/WeatherService-soapui-project.xml
+	at java.net.URL.<init>(URL.java:586)
+	at java.net.URL.<init>(URL.java:483)
+	at java.net.URL.<init>(URL.java:432)
+	at com.eviware.soapui.impl.wsdl.WsdlProject.<init>(WsdlProject.java:234)
+	at com.eviware.soapui.impl.wsdl.WsdlProject.<init>(WsdlProject.java:201)
+	at com.eviware.soapui.impl.wsdl.WsdlProject.<init>(WsdlProject.java:189)
+	at com.cybage.alm.SoapUI_Maven.TestClass.main(TestClass.java:16)
